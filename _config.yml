@@ -11,7 +11,7 @@ title                    : "Molly Cutler"
 title_separator          : "-"
 name                     : &name "Molly Cutler"
 description              : &description "Molly Cutler"
-url                      : "molly-cutler.github.io"
+url                      : molly-cutler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "molly-cutler/molly-cutler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

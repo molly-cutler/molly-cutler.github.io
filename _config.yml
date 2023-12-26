@@ -83,7 +83,7 @@ author:
   name             : "Molly Cutler"
   avatar           : "website_avatar.jpg"
   bio              : "First-year linguistics PhD student at NYU"
-  location         : "New York, NY"
+  location         : "New York, NY & Philadelphia, PA"
   employer         :
   pubmed           : 
   googlescholar    :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "molly-cutler"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

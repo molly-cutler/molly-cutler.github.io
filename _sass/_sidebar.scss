@@ -94,6 +94,7 @@
 }
 
 .author__content {
+  margin: auto;
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
@@ -117,7 +118,6 @@
   }
 }
 .sidebar .author__name {
-  text-align: right;
   font-family: $sans-serif;
   font-size: $type-size-2;
 }

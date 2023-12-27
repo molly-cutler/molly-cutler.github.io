@@ -18,7 +18,7 @@ author_profile: true
 
 <p><b><u>Publications</u></b></p>
 
-<p>Zettersten, M., <b>Cutler, M.</b>, & Lew-Williams, C. (2023). Active information-seeking in support of learning extensions of novel words. Proceedings of the 45th Annual Conference of the Cognitive Science Society. <a href="https://osf.io/preprints/psyarxiv/ecq85">[preprint]</a></p>
+<p>Zettersten, M., <b>Cutler, M.</b>, & Lew-Williams, C. (2023). Active information-seeking in support of learning extensions of novel words. <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society.</i> <a href="https://osf.io/preprints/psyarxiv/ecq85">[preprint]</a></p>
 
 <p><b><u>Unpublished theses</u></b></p>
 

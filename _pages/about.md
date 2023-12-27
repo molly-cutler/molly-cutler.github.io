@@ -21,8 +21,8 @@ Research Interests
 
 <b>On the psycholinguistics/acquisition front, I'm interested in cognitive processing of linguistic ambiguity and semantic learning/generalization.</b> In my research with the Princeton Baby Lab, I investigated how active information seeking strategies might facilitate language learners' acquisition of new words at ambiguous levels of specificity (for example, when it is unclear whether a new word "really means" something very specific like "dalmatian", or something broader like "dog" or "animal" or "living thing").
 
-Other interests include binding theory/pronouns and anaphors, presupposition, indexicality, and more. Languages I've worked with include English (various dialects/communities), Korean, Hwanyle/Kulaale, and Shona; I'm also interested in Yiddish and in French and other Romance languages.
+<b>Other interests</b> include binding theory/pronouns and anaphors, presupposition, indexicality, and more. Languages I've worked with include English (various dialects/communities), Korean, Hwanyle/Kulaale, and Shona; I'm also interested in Yiddish and in French and other Romance languages.
 
-I am passionate about and have been involved with endangered language documentation and revitalization, as well as science communication and outreach. I value research that supports community involvement and language rights/justice in general.
+<b>I am passionate about and have been involved with endangered language documentation and revitalization, as well as science communication and outreach.</b> I value research that supports community involvement and language rights/justice in general.
 
-You can reach me at mic6457 at nyu dot edu.
+You can reach me at <b>mic6457 at nyu dot edu</b>.

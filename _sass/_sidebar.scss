@@ -9,6 +9,8 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+   
+  background-color: $sidebar-color;
 
   @include clearfix();
   margin-bottom: 1em;
@@ -51,6 +53,7 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+
 
   @include breakpoint($large) {
     position: relative;

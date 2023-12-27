@@ -59,6 +59,6 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
-cv goes here
+You can view my CV here, as a pdf:
 
-<a href="/files/m_cutler_website_CV.pdf">link</a>
+<a href="/files/m_cutler_website_CV.pdf">CV</a>

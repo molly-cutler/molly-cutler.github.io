@@ -155,6 +155,7 @@
 
   @include breakpoint($large) {
     display: block;
+    width: 260px;
   }
 
   button {

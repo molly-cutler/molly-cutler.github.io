@@ -11,6 +11,7 @@
           transform: translate3d(0, 0 , 0);
    
   background-color: $sidebar-color;
+  width: 260px;
 
   @include clearfix();
   margin-bottom: 1em;

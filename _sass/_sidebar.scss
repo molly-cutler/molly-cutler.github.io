@@ -9,9 +9,6 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-   
-  body-color: $sidebar-color;
-  width: 260px;
 
   @include clearfix();
   margin-bottom: 1em;
@@ -75,7 +72,6 @@
 
 .author__avatar {
   display: table-cell;
-  background-color: $sidebar-color;
   vertical-align: top;
   width: 260px;
   margin: auto;
@@ -100,7 +96,6 @@
 }
 
 .author__content {
-  background-color: $sidebar-color;
   text-align: center;
   display: table-cell;
   vertical-align: top;
@@ -144,7 +139,6 @@
 }
 
 .author__urls-wrapper {
-  background-color: $sidebar-color;
   text-align: center;
   position: relative;
   display: table-cell;

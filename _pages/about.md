@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Molly and I'm a first-year PhD student in linguistics at New York University. My research is primarily in sociolinguistics, with additional interests in syntax-semantics and in psycholinguistics and language acquisition. You can read more about my research interests below.
+Hello! I'm Molly and I'm a second-year PhD student in linguistics at New York University. My research is primarily in sociolinguistics, with additional interests in syntax-semantics and in psycholinguistics and language acquisition. You can read more about my research interests below.
 
 Prior to starting at NYU, I received an A.B. in Linguistics from Princeton University, with a certificate (minor) in Cognitive Science. At Princeton, my senior thesis was advised by Alex Göbel and my junior paper (independent research) was advised by Catalina Méndez Vallejo, and I was a research assistant with Casey Lew-Williams and Martin Zettersten in the Princeton Baby Lab.
 

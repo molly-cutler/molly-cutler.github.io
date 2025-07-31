@@ -18,8 +18,8 @@ author_profile: true
 
 <p><b><u>Publications</u></b></p>
 
-<p><b>Cutler, M.*</b>, Mitra, A.*, Barnard, M., Göbel, J., & MacKenzie, L. To appear. Both (of) the variants show a couple (of) different patterns: Social conditioning of 'of'-variation across multiple linguistic environments. U. Penn Working Papers in Linguistics 31.2.</p>
-<p>*co-first authors</p>
+<p><b>Cutler, M.*</b>, Mitra, A.*, Barnard, M., Göbel, J., & MacKenzie, L. To appear. Both (of) the variants show a couple (of) different patterns: Social conditioning of 'of'-variation across multiple linguistic environments. U. Penn Working Papers in Linguistics 31.2. < /br>
+*co-first authors</p>
 
 <p>Zettersten, M., <b>Cutler, M.</b>, & Lew-Williams, C. (2023). Active information-seeking in support of learning extensions of novel words. <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society.</i> <a href="https://osf.io/preprints/psyarxiv/ecq85">[preprint]</a></p>
 

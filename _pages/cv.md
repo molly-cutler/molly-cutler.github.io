@@ -61,6 +61,6 @@ Service and leadership
 
 You can view my CV here, as a pdf:
 
-<a href="/files/m_cutler_website_CV_7_25_.pdf">CV</a>
+<a href="/files/m_cutler_website_CV_Oct25.pdf">CV</a>
 
-(last updated: July 2025)
+(last updated: October 2025)

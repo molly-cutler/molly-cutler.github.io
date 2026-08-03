@@ -27,8 +27,6 @@ author_profile: true
 
 <p><b><u>Manuscripts</u></b></p>
 
-<p><b>Cutler, M.</b> In prep. What I’ll say and what you’re going to say: Children’s use of constraints on sociolinguistic variation. </p>
-
 <p><b>Cutler, M.</b> 2023. Performing Performatives: An Analysis of Role-Playing Games’ Narration, Toward an Expansion of the Semantics of English Simple Present Verb Morphology. Princeton, NJ: Princeton University senior thesis. <a href="https://github.com/molly-cutler/mcutler-thesis-TTRPGcorpus">[corpus database]</a></p>
 
 <p><b>Cutler, M.</b> 2022. "I am Done (with) My Homework”: the Semantics, Syntax, and Sociolinguistic Microvariation of a Dialectal Feature of Philadelphia English. Princeton, NJ: Princeton University junior paper.</p>

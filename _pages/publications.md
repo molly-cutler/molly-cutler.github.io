@@ -18,6 +18,8 @@ author_profile: true
 
 <p><b><u>Publications</u></b></p>
 
+<p><b>Cutler, M.</b> Accepted. A comparative sociosyntax approach to constraints on preposition variation in Philadelphia English and Scots. <i>Journal of Comparative Germanic Linguistics.</i></p>
+
 <p><b>Cutler, M.*</b>, Mitra, A.*, Barnard, M., Göbel, J., & MacKenzie, L. 2025. Both (of) the variants show a couple (of) different patterns: Social conditioning of 'of'-variation across multiple linguistic environments. <i>U. Penn Working Papers in Linguistics</i> 31.2. <a href="https://repository.upenn.edu/server/api/core/bitstreams/f32b4028-eb8c-48ec-bd69-2c1228a5f188/content">[here!]</a> <br />
 *co-first authors</p>
 
@@ -25,7 +27,7 @@ author_profile: true
 
 <p><b><u>Manuscripts</u></b></p>
 
-<p><b>Cutler, M.</b> In prep. A comparative sociosyntax approach to constraints on preposition variation in Philadelphia English and Scots.</p>
+<p><b>Cutler, M.</b> In prep. What I’ll say and what you’re going to say: Children’s use of constraints on sociolinguistic variation. </p>
 
 <p><b>Cutler, M.</b> 2023. Performing Performatives: An Analysis of Role-Playing Games’ Narration, Toward an Expansion of the Semantics of English Simple Present Verb Morphology. Princeton, NJ: Princeton University senior thesis. <a href="https://github.com/molly-cutler/mcutler-thesis-TTRPGcorpus">[corpus database]</a></p>
 

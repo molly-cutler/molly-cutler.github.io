@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I'm Molly and I'm a fourth-year PhD student in linguistics at New York University. My research is primarily in sociolinguistics, with additional interests in syntax and in psycholinguistics and language acquisition. My advisor is Laurel MacKenzie. You can read more about my research interests below.
 
-Prior to starting at NYU, I received an A.B. in Linguistics from Princeton University, with a certificate (minor) in Cognitive Science. At Princeton, my senior thesis was advised by Alex Göbel and my junior paper (independent research) was advised by Catalina Méndez Vallejo, and I was a research assistant with Casey Lew-Williams and Martin Zettersten in the Princeton Baby Lab.
+Prior to starting at NYU, I received an A.B. in Linguistics from Princeton University, with a certificate (minor) in Cognitive Science.
 
 Outside of linguistics, I'm a classical clarinetist and a knitter, and a very amateur runner and rock climber. I also love trivia competitions, watching baseball, and my hometown of Philadelphia.
 
@@ -19,9 +19,7 @@ Research Interests
 
 <b>As a sociolinguistic researcher, I focus on language variation — both between and within dialects/communities.</b> In particular, I'm curious about how social identity and linguistic structure (especially syntax) are intertwined. One way in which I study this is by examining linguistic and social constraints on variation. When language users have a choice between different linguistic forms that convey (essentially) the same content, what information — structural, social, cognitive — plays a role in determining the form they ultimately utter? I'm interested in how such constraints may vary across dialects, communities of practice, and registers, and in what they can show us about formal syntax and about the nature of variation writ large. I often use corpus methodologies to pursue these questions.
 
-<b>On the psycholinguistics/acquisition front, I'm interested in processes of learning in the face of semantic ambiguity, and in the acquisition of variation.</b> I've investigated how active information-seeking strategies might facilitate the acquisition of new words at ambiguous levels of specificity. I also have a line of research focusing on the ways in which language learners come to understand the shared meanings of the variants of a sociolinguistic variable, as well as how such learners might (or might not) acquire constraints on variation.
-
-<b>Languages</b> I've worked with include English (various dialects/communities of practice/genres), Korean, Hwanyle/Kulaale, and Shona; I'm also interested in Yiddish and in French and other Romance languages.
+<b>On the psycholinguistics front, I'm interested in processes of learning in the face of semantic ambiguity, and in the acquisition of variation.</b> I've investigated how active information-seeking strategies might facilitate the acquisition of new words that are ambiguous with regards to their specificity. I also have investigated the ways in which young children come to understand the shared meanings of the variants of a sociolinguistic variable, as well as how such learners might (or might not) acquire constraints on variation.
 
 <b>I am passionate about and have been involved with endangered language documentation and revitalization, as well as science communication and outreach.</b> I value research that supports community involvement and language rights/justice in general.
 

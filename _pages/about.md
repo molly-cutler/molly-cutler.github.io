@@ -22,5 +22,3 @@ Research Interests
 <b>On the psycholinguistics front, I'm interested in processes of learning in the face of semantic ambiguity, and in the acquisition of variation.</b> I've investigated how active information-seeking strategies might facilitate the acquisition of new words that are ambiguous with regards to their specificity. I also have investigated the ways in which young children come to understand the shared meanings of the variants of a sociolinguistic variable, as well as how such learners might (or might not) acquire constraints on variation.
 
 <b>I am passionate about and have been involved with endangered language documentation and revitalization, as well as science communication and outreach.</b> I value research that supports community involvement and language rights/justice in general.
-
-You can reach me at <b>mic6457 at nyu dot edu</b>.
